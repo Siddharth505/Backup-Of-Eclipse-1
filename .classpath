@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/async-http-client-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/async-http-client-netty-utils-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/auto-common-0.10.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/auto-service-1.0-rc6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/auto-service-annotations-1.0-rc6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/byte-buddy-1.10.9.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/checker-qual-2.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/grpc-context-1.28.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/guava-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/kotlin-stdlib-1.3.70.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/kotlin-stdlib-common-1.3.70.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-buffer-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-codec-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-codec-http2-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-codec-http-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-codec-socks-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-common-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-handler-4.1.43.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-handler-proxy-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-resolver-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-transport-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-transport-native-epoll-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-transport-native-epoll-4.1.49.Final-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-transport-native-kqueue-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-transport-native-kqueue-4.1.49.Final-osx-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/netty-transport-native-unix-common-4.1.49.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/ngwebdriver-1.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/okhttp-4.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/okio-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/opentelemetry-api-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/opentelemetry-context-prop-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/opentelemetry-sdk-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/reactor-core-3.3.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/reactor-netty-0.9.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-api-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-chrome-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-chromium-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-devtools-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-edge-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-edgehtml-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-firefox-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-firefox-xpi-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-http-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-ie-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-java-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-json-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-opera-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-remote-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-safari-driver-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/selenium-support-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/jar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARES/poi-3.17/All Files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
