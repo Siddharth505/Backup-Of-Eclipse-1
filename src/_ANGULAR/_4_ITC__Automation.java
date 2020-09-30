@@ -94,7 +94,7 @@ public class _4_ITC__Automation {
 			
 
 		
-		} while (!"EOF".equals(elementname ))
+		} while (!"EOF".equals(elementname))
 		
 			
 		 
